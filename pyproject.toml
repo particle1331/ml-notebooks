@@ -31,8 +31,12 @@ dependencies = [
     "mlx>=0.19.0",
     "papermill>=2.6.0",
     "jupyter>=1.1.1",
+    "azure-cli>=2.69.0",
 ]
 
 [project.urls]
 homepage = "https://particle1331.github.io/ok-transformer"
 source = "https://github.com/particle1331/ok-transformer"
+
+[tool.uv]
+prerelease = "allow"
