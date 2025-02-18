@@ -8,7 +8,8 @@
 
 Entry point: [**OK Transformer** website](https://particle1331.github.io/ok-transformer/intro.html)
 
-A collection of self-contained notebooks on machine learning theory, engineering, and operations. I cover topics that frequently serve as building blocks for applications or further theory. I also explore areas where I seek to [clarify my understanding](http://www.paulgraham.com/words.html) or [delve into details](http://www.paulgraham.com/getideas.html) that I find particularly interesting or intriguing.
+A collection of self-contained notebooks on machine learning theory, engineering, and operations. I cover topics that frequently serve as building blocks for applications and further theory, as well as those that I find interesting or intriguing. More pragmatically, writing helps me [clarify my understanding](http://www.paulgraham.com/words.html) and [explore details](http://www.paulgraham.com/getideas.html) I might otherwise overlook.
+
 
 ## Making a local build
 
